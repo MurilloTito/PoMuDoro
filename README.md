@@ -1,2 +1,2 @@
-# PoMuDoro
+# PoMuDoro 🍅
 Meu App estilo Focus Timer ⏰
