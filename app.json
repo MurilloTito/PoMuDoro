@@ -24,10 +24,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.murillotito.snacka84a4f6666f04f57a34da8533f8d8928"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d434cf8b-de03-424a-b877-8c16e96f42dc"
+      }
     }
   }
 }
